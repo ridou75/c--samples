@@ -1,0 +1,4 @@
+http://www.developerfusion.com/code/5223/using-ashx-files-to-retrieve-db-images/
+http://stackoverflow.com/questions/4360866/query-string-to-handler-page
+http://www.c-sharpcorner.com/uploadfile/prathore/what-is-an-ashx-file-handler-or-web-handler/
+https://www.dotnetperls.com/ashx
