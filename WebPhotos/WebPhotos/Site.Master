@@ -24,7 +24,7 @@
     <header>
         <div class="content-wrapper">
             <div class="float-left">
-                <p class="site-title"><a runat="server" href="~/"><asp:Image ID="MyLogo" src="Images/breakingBad.jpg" runat="server" Height="100px"  ImageAlign="Middle" ViewStateMode="Enabled" />
+                <p class="site-title"><a runat="server" href="~/"><asp:Image ID="MyLogo" src="Images/breakingBad.jpg" runat="server" Height="150px"  ImageAlign="Middle" ViewStateMode="Enabled" />
  </a></p>
             </div>
             <div class="float-right">
